@@ -1,0 +1,12 @@
+.container-lg {
+    max-width: 960px;
+}
+.top{
+    color: white;
+}
+.top:hover{
+    color: red;
+}
+
+
+
